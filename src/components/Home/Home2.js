@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/Group 1 (1).png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,37 +19,26 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            I discovered my passion for digital marketing early on, and since then, I've been on a journey of continuous learning and innovation.
               <br />
-              <br />I am fluent in classics like
+              <br />I specialize in 
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple">SEO, Social Media Marketing, and AI-powered Marketing Strategies,  </b>
+              </i>
+              <br />helping brands create impactful digital experiences.
+              <br />
+              My areas of interest include: &nbsp;
+              <i>
+                <b className="purple">✨ Building data-driven marketing campaigns
+📈 Leveraging AI for content creation & automation
+ </b> and
+ 🔍 Optimizing strategies for maximum reach & engagement{" "}
+                
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              I love exploring the latest <b className="purple"> MarTech tools, paid advertising trends, and growth hacking techniques</b>  to drive business success. Whenever possible, I apply my expertise in <b className="purple">Google Ads, Meta Ads, LinkedIn strategies, and email marketing</b>  automation to craft high-performing campaigns. 
+              
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +56,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/magartej07"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +66,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://x.com/TejMagar_7"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/tej-thapa-6007a1256/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +86,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/tej_magar7/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
